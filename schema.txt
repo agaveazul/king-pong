@@ -1,0 +1,18 @@
+Players
+-first_name
+-last_name
+-contact
+-image_url
+
+Games
+-date
+-type (singles, doubles)
+
+Leaderboard
+-game_id
+-player_id_1
+-player_id_2
+-player_id_1_score
+-player_id_2_score
+-game_winner
+-game_loser
